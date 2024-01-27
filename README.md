@@ -6,6 +6,7 @@ Explore MongoDB connectivity in a Spring Boot application! This project serves a
 <ul>
   <li>MongoDB integration with Spring Boot</li>
   <li>CRUD operations on a Student entity</li>
+  <li>MapStruct for entity-DTO mapping</li>
   <li>RESTful API for managing student records</li>
   <li>Exception handling and global error management</li>
 </ul>
@@ -14,6 +15,7 @@ Explore MongoDB connectivity in a Spring Boot application! This project serves a
 <ul>
   <li>Spring Boot</li>
   <li>MongoDB</li>
+  <li>MapStruct</li>
   <li>Spring Data MongoDB</li>
   <li>RESTful API</li>
 </ul>
